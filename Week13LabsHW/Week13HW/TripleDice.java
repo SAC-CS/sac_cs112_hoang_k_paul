@@ -8,6 +8,7 @@ public class TripleDice extends Dice {
 	
 	@Override
 	public String toString(){
+		// Please try to expand this method to include both super and subclass info
 		return super.toString();
 	}
 
